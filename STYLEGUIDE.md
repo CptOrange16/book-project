@@ -7,7 +7,7 @@ the version on the master branch should be followed, as this version should be t
 
 ## Table of Contents
 
-1. [Introduction](https://github.com/knjk04/book-project/blob/master/STYLEGUIDE.md#introduction)
+1. [Introduction](#introduction)
 1. [IDE formatting](https://github.com/knjk04/book-project/blob/master/STYLEGUIDE.md#ide-formatting)
    1. [IntelliJ](https://github.com/knjk04/book-project/blob/master/STYLEGUIDE.md#intellij)
    1. [Eclipse](https://github.com/knjk04/book-project/blob/master/STYLEGUIDE.md#eclipse)
